@@ -1,0 +1,20 @@
+.navbar-section{
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    margin-top:auto;
+    margin-bottom: auto;
+}
+
+.navbar-elem{
+    margin-left:50px;
+    font-size: 18px;
+}
+.navbar-btn{
+    border: 0 ;
+    font-size: 18px;
+    background-color: white;
+}
+.navbar-btn:hover{
+    color:darkred;
+}
